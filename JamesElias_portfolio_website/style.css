@@ -78,7 +78,7 @@ footer {
     padding: 20px;
 }
 
-media-container {
+.media-container iframe{
     display: flex;
     justify-content: center;
     align-items: center;
