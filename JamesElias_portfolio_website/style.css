@@ -80,8 +80,6 @@ footer {
 
 .media-container {
     display: flex;
-    justify-content: center;
-    align-items: center;
   }
 
   .media-container iframe {
