@@ -78,8 +78,9 @@ footer {
     padding: 20px;
 }
 
-.media-container iframe{
+.media-container {
     display: flex;
     justify-content: center;
     align-items: center;
   }
+
