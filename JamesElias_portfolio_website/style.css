@@ -78,13 +78,3 @@ footer {
     padding: 20px;
 }
 
-.media-container {
-    display: flex;
-  }
-
-  .media-container iframe {
-    width: 560px; 
-    height: 315px; 
-    margin: 0 auto;
-  }
-  
