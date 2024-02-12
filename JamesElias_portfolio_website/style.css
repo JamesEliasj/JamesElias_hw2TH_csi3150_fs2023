@@ -16,6 +16,10 @@ header h1 {
     margin: 0;
 }
 
+h3 {
+    text-align: center;
+}
+
 nav ul {
     list-style: none;
     padding: 0;
@@ -74,7 +78,7 @@ footer {
     padding: 20px;
 }
 
-.media-container {
+media-container {
     display: flex;
     justify-content: center;
     align-items: center;
