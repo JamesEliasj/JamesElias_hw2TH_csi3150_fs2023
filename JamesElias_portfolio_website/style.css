@@ -9,7 +9,9 @@ header {
     background-color: #333;
     color: #fff;
     padding: 20px;
-    text-align: left;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 header h1 {
@@ -45,7 +47,7 @@ img {
 audio {
     display: block;
     margin: 0 auto;
-  }
+}
 
 blockquote {
     font-style: italic;
@@ -77,4 +79,3 @@ footer {
     text-align: center;
     padding: 20px;
 }
-
