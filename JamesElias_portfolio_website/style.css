@@ -30,6 +30,10 @@ td {
     text-align: center;
   }
 
+tr {
+    text-align: center;
+  }  
+
 nav ul {
     list-style: none;
     padding: 0;
