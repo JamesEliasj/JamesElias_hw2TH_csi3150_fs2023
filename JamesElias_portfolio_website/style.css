@@ -33,6 +33,10 @@ td {
 tr {
     text-align: center;
   }  
+  
+table {
+    text-align: center;
+}
 
 nav ul {
     list-style: none;
